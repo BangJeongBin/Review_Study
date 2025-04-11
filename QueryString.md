@@ -1,5 +1,3 @@
-아래는 `QueryString.txt` 파일의 내용을 마크다운 파일 형식으로 변환한 결과입니다:
-
 ```markdown
 # Query String과 Path Variable
 
