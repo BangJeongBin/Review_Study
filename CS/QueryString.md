@@ -2,9 +2,9 @@
 # Query String과 Path Variable
 
 Query String과 Path Variable은 웹 애플리케이션에서 클라이언트가 서버로 데이터를 전달하는 방식이지만, 사용 목적과 방식이 다르다.
-
+```
 ---
-
+```markdown
 ## 1. Query String
 
 ### 형태
@@ -24,6 +24,7 @@ GET /products?category=electronics&minPrice=10000&maxPrice=50000
 ```
 - `category=electronics`: 전자제품 카테고리만 조회
 - `minPrice=10000, maxPrice=50000`: 가격 범위 내 상품 조회
+```
 
 #### (2) 페이지네이션 (페이징)
 ```bash
