@@ -4,7 +4,7 @@
 ## 🧠 MCP (Model Context Protocol)란?
 
 ### ✅ 정의
-> **Model Context Protocol은 다양한 AI 모델 또는 시스템 간에 공유 가능한 문맥(Context) 정보를 정의하고 교환하는 프로토콜**입니다.
+> **Model Context Protocol은 다양한 AI 모델 또는 시스템 간에 공유 가능한 문맥(Context) 정보를 정의하고 교환하는 프로토콜**임
 
 쉽게 말해,  
 "**A라는 모델에서 생성한 정보(예: 사용자 상태, 대화 히스토리, 환경 설정 등)를 B 모델이나 시스템이 이어서 이해하고 반영할 수 있게 해주는 방식**"을 의미
