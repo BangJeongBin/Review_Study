@@ -67,6 +67,6 @@ squared = [x * x for x in numbers]
 ---
 
 ## 💡 마무리 팁  
-실무에서는 이 두 가지 패러다임을 **혼합해서 사용하는 경우가 많습니다.** 예를 들어 Python이나 JavaScript는 기본적으로 명령형이지만, 함수형 요소(map, filter, reduce 등)를 통해 선언형 스타일도 지원합니다.
+실무에서는 이 두 가지 패러다임을 **혼합해서 사용하는 경우가 많다.** 예를 들어 Python이나 JavaScript는 기본적으로 명령형이지만, 함수형 요소(map, filter, reduce 등)를 통해 선언형 스타일도 지원한다.
 
 ---
