@@ -80,7 +80,7 @@ public Product getProductById(@PathVariable Long productId) {
 
 ---
 
-## 🚀 언제 사용해야 할까?
+##  언제 사용해야 할까?
 
 | Query String                           | Path Variable                     |
 |----------------------------------------|------------------------------------|
