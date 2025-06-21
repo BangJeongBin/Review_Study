@@ -1,4 +1,4 @@
-Java에서 `call by value`와 `call by reference`에 대한 개념은 조금 헷갈릴 수 있지만, 핵심은 **Java는 모든 값을 'call by value'(값에 의한 호출)로 전달한다**는 것입니다. 그러나 전달되는 값이 **객체의 참조값(reference)** 인 경우, 객체 내부 상태를 변경할 수 있어 마치 참조에 의한 호출처럼 보일 수 있습니다.
+Java에서 `call by value`와 `call by reference`에 대한 개념은 조금 헷갈릴 수 있지만, 핵심은 **Java는 모든 값을 'call by value'(값에 의한 호출)로 전달한다**는 것입니다. 그러나 전달되는 값이 **객체의 참조값(reference)** 인 경우, 객체 내부 상태를 변경할 수 있어 마치 참조에 의한 호출처럼 보일 수 있음
 
 ---
 
