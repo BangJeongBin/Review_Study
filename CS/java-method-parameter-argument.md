@@ -43,7 +43,7 @@ public class Calculator {
 
 ## 🔁 쉽게 기억하는 팁
 
-* **Parameter**는 **메서드 선언** 시 사용하는 이름.
-* **Argument**는 **메서드 호출** 시 넘기는 값.
+* **Parameter**는 **메서드 선언** 시 사용하는 이름
+* **Argument**는 **메서드 호출** 시 넘기는 값
 
 ---
