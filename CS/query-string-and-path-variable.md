@@ -92,6 +92,6 @@ public Product getProductById(@PathVariable Long productId) {
 
 ## ✅ 정리
 
-- **Query String**: 검색, 필터링, 정렬, 페이징 등 선택적인 데이터 전달
+- **Query String**: 검색, 필터링, 정렬, 페이징 등 선택적인 데이터 전달.
 - **Path Variable**: 특정 리소스 식별 (ID, 고유 값)
 ```
