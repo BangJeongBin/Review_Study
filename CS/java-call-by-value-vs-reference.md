@@ -12,7 +12,7 @@ Java에서 `call by value`와 `call by reference`에 대한 개념은 조금 헷
 ### ✅ Call by Reference (참조에 의한 호출) - Java에서는 직접적으로 존재하지 않음
 
 * 변수 자체가 아닌 **메모리 주소(참조)를 넘겨서** 원본 데이터를 직접 변경하는 방식
-* Java는 엄밀히 말하면 call by reference가 없습니다.
+* Java는 엄밀히 말하면 call by reference가 없음
 * 객체의 **참조값(주소)** 을 value로 전달하기 때문에 객체 내부의 값은 바뀔 수 있습니다.
 
 ---
