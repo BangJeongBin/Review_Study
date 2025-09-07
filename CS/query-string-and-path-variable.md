@@ -54,7 +54,7 @@ public List<Product> getProducts(
 ### 특징
 - `GET`, `DELETE`, `PUT`, `PATCH` 등의 요청에서 리소스를 식별할 때 주로 사용됨
 - URL 구조에 포함되어 의미가 명확함
-- 계층적인 리소스 구조 표현에 적합
+- 계층적인 리소스 구조 표현에 적합함
 
 ### 사용 예시
 
