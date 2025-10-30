@@ -1,4 +1,4 @@
-# 프로젝트 제목 (Project Title)
+# 프로젝트 제목 (Project Title )
 
 ## 1. 소개 (Introduction)
 - 프로젝트 개요
