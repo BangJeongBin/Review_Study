@@ -1,7 +1,7 @@
 
 # Query String과 Path Variable
 
-Query String과 Path Variable은 웹 애플리케이션에서 클라이언트가 서버로 데이터를 전달하는 방식이지만, 사용 목적과 방식이 다름
+Query String과 Path Variable은 웹 애플리케이션에서 클라이언트가 서버로 데이터를 전달하는 방식이지만,사용 목적과 방식이 다름
 ---
 ## 1. Query String
 
